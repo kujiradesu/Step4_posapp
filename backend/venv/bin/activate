@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/maedaryo/Documents/tech0/202406226_step4/Step4_posapp/backend/venv"
+VIRTUAL_ENV="/Users/maedaryo/Documents/tech0/Step4_posapp/backend/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
